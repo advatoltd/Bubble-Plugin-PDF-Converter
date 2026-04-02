@@ -1,0 +1,55 @@
+{
+    "category": "plugins",
+    "display": "Convert to PDF",
+    "fields": {
+        "AAV": {
+            "caption": "Element ID",
+            "editor": "DynamicValue",
+            "name": "element_id",
+            "optional": false,
+            "rank": 0,
+            "value": "text"
+        },
+        "AAW": {
+            "caption": "File name",
+            "default_val": "document.pdf",
+            "editor": "DynamicValue",
+            "name": "filename",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAX": {
+            "caption": "Page format",
+            "default_val": "a4",
+            "editor": "DynamicValue",
+            "name": "page_format",
+            "rank": 2,
+            "value": "text"
+        },
+        "AAY": {
+            "caption": "Orientation",
+            "default_val": "portrait",
+            "editor": "DynamicValue",
+            "name": "orientation",
+            "rank": 3,
+            "value": "text"
+        },
+        "AAZ": {
+            "caption": "Scale",
+            "editor": "DynamicValue",
+            "name": "scale",
+            "rank": 4,
+            "value": "number"
+        },
+        "AAb": {
+            "caption": "Action",
+            "default_val": "download",
+            "doc": "download or print or both",
+            "editor": "DynamicValue",
+            "name": "pdf_action",
+            "rank": 5,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}

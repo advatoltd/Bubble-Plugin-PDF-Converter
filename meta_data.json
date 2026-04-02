@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "PDF"
+    },
+    "demo_page": "https://pdf-gen-advato-test.bubbleapps.io/version-test",
+    "description": "Turn any HTML element into a clean PDF with one click.\nPerfect for invoices, reports, or saving specific content.\n\nDownload or print instantly—no setup needed.\nFast, simple, and keeps your design exactly as it is.",
+    "designed_for": "web",
+    "image": "//meta-q.cdn.bubble.io/f1775063612417x769711209500830300/Design%20sans%20titre%20%2820%29.svg",
+    "license": "open_source",
+    "link": "https://advato.solutions/",
+    "name": "PDF Converter"
+}
